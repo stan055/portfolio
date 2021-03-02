@@ -14,7 +14,7 @@
                 <a href="#contact-form">
                     <button type="button" class="btn btn-success">Contact Me</button>
                 </a>
-                <a href=".assets/doc/StanislavLitvinyuk_WebMobileDev.cv.pdf" download>
+                <a href=".assets/doc/StanislavLitvinyuk_Dev.cv.pdf" download>
                     <button type="button" class="btn btn-success">Download CV</button>
                 </a>
             </div>
