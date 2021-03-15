@@ -9,7 +9,7 @@
             <span>Hello I'm Stanislav Litvyniyk</span>
             <br>
             <span>Web & Mobile Developer</span>
-            <p>Lorem ipsum dolor sit amet.</p>
+            <p></p>
             <div class="buttons">
                 <a href="#contact-form">
                     <button type="button" class="btn btn-success">Contact Me</button>
